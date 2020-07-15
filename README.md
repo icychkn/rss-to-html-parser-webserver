@@ -24,7 +24,7 @@ url-friendly form. This can then be added directly to the url to get the resulti
 
 <iframe type="text/html" src="http://{url/ip/domain name of server}/?feed={link to rss feed}&style={css url-friendly content}" height="480" width="480"></iframe><br>
 
-Note: this script has very poor error handling. If it fails, it will crash and let you know.
+<br>Note: this script has very poor error handling. If it fails, it will crash and let you know.
 
 ## License
 Don't know what license is the most permissible. Do whatever you want with this.
